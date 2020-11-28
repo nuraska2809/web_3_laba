@@ -11,6 +11,7 @@ imgtext+'Nat.jpg'
 ,imgtext+'ДТТ.jpg'
 ,imgtext+'ДК.jpg'
 ,imgtext+'Агата_Кристи.jpg'
+
 ,imgtext+'bio.jpg'
 ];
 let TextOsnova = [

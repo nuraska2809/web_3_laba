@@ -31,12 +31,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/php/data" />
     <property name="settings.editor.selected.configurable" value="sshConsole" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WebServers\home\A_3.ru\www\php\data" />
+      <recent name="C:\WebServers\home\A_3.ru\www\php\bd" />
       <recent name="C:\WebServers\home\A_3.ru\www\php" />
     </key>
   </component>
@@ -56,7 +58,7 @@
       <workItem from="1605287776829" duration="2690000" />
       <workItem from="1605460087799" duration="9370000" />
       <workItem from="1605711378590" duration="15397000" />
-      <workItem from="1606493694091" duration="1210000" />
+      <workItem from="1606493694091" duration="4005000" />
     </task>
     <servers />
   </component>
